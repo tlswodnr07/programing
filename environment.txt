@@ -1,0 +1,4 @@
+Linux-6.18.44-x86_64-with-glibc2.39
+x86_64
+GCC 13.3.0, -std=c17 -Wall -Wextra -O2
+Python 3.12.14

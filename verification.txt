@@ -1,0 +1,3 @@
+C: 3015 checks, 0 failures
+Python: 3015 conditions + heap stability counterexample passed
+C/Python: 60 conditions have identical comparisons, moves, and stability observations
